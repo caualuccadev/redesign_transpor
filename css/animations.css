@@ -75,3 +75,4 @@
 /* home page animations */
 .animation_hero::after{ animation: welcome_animation_words  12s linear infinite;}
 .animation_hero::before {animation: welcome_animation_change 4s steps(10) infinite;}
+
