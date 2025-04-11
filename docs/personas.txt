@@ -1,0 +1,78 @@
+========================================
+PERSONA 1 – LUANA
+----------------------------------------
+Idade: 23 anos
+Identidade de gênero: Mulher trans
+Profissão: Desempregada
+Objetivo: Recolocação no mercado formal
+Desafios: 
+- Discriminação em entrevistas
+- Dificuldade em elaborar currículo
+Como o site ajuda:
+- Oferece apoio gratuito e acolhimento
+- Preparação para processos seletivos
+========================================
+
+PERSONA 2 – ALEX
+----------------------------------------
+Idade: 19 anos
+Identidade de gênero: Pessoa não binárie
+Profissão: Estudante de design
+Objetivo: Começar carreira com segurança
+Desafios:
+- Pouca experiência profissional
+- Dúvidas sobre se apresentar sem apagar sua identidade
+Como o site ajuda:
+- Consultoria especializada e acolhedora
+- Preparação para o mercado com respeito à identidade
+========================================
+
+PERSONA 3 – JOÃO
+----------------------------------------
+Idade: 28 anos
+Identidade de gênero: Homem cis gay
+Profissão: Recrutador de RH em startup
+Objetivo: Atuar como voluntário
+Desafios:
+- Insegurança sobre como contribuir corretamente
+Como o site ajuda:
+- Explica formas de voluntariado
+- Orientações específicas para aliados
+========================================
+
+PERSONA 4 – SANDRA
+----------------------------------------
+Idade: 36 anos
+Identidade de gênero: Mulher cis hétero
+Profissão: Psicóloga
+Objetivo: Contribuir com apoio emocional
+Desafios:
+- Nunca atuou com o público trans
+Como o site ajuda:
+- Indica boas práticas para aliados
+- Mostra áreas onde pode atuar como voluntária
+========================================
+
+PERSONA 5 – MARCOS
+----------------------------------------
+Idade: 45 anos
+Identidade de gênero: Homem cis hétero
+Profissão: Empresário
+Objetivo: Doar para causas sociais
+Desafios:
+- Quer ter certeza do impacto da doação
+Como o site ajuda:
+- Transparência nas ações
+
+PERSONA NEGATIVA – ANA PAULA
+----------------------------------------
+Idade: 32 anos
+Identidade de gênero: Mulher cis hétero
+Profissão: Influencer conservadora
+Objetivo: Entrou por curiosidade ou crítica
+Desafios:
+- Não entende o propósito do projeto
+Por que é negativa:
+- Não compartilha os valores da ONG
+- Risco de propagar discurso desinformativo
+========================================

@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+========================================
+PALAVRAS-CHAVE TRANSFOBICAS (BLOQUEIO)
+========================================
+
+--- Termos pejorativos ---
+traveco
+travecão
+trap
+aberração
+sapatão (em tom pejorativo)
+homossexualismo (termo inadequado)
+
+
+========================================
+MICROCOPYS – PROJETO TRANSPOR
+========================================
+
+--- HERO (Página Inicial) ---
+Mensagem de acolhimento:
+Transpondo os limites que nunca deveriam ter existido.
+Comece sua trajetória com apoio, respeito e oportunidade."
+
+
+
+
+Botão primário (CTA participante):
+[Quero participar]
+
+Botão secundário (CTA voluntárie):
+[Quero ajudar]
+
+--- SOBRE O PROJETO (home e página dedicada) ---
+Título seção curta (home):
+<colocar sobre a definição do verbo transpor como titulo>
+
+Resumo:
+Nascemos do encontro entre propósito e ação.
+Diante da exclusão que atravessa a vida de pessoas trans, travestis e não bináries, seguimos firmes oferecendo consultoria profissional gratuita e exclusiva para quem deseja acessar o mercado de trabalho.
+Enquanto tivermos força, estaremos aqui transpondo limites e construindo possibilidades.
+
+
+--- DADOS/ESTATÍSTICAS (educação, mercado) ---
+Título:
+"Por que o Projeto Transpor existe?"
+
+Frase apoio:
+Números que ecoam realidades urgentes demais para esperar
+
+Botão (link para página completa):
+[Conheça nossa história]
+
+botão (link para o ciclo)
+[conheça nossa consultoria
+
+--- SERVIÇOS (resumo do ciclo) ---
+Título:
+Caminhos que rompem casulos e ampliam horizontes
+Diversificando o mercado
+No país que mais mata pessoas trans em todo o mundo e o preconceito infelizmente ainda impera, o Projeto Transpor surgiu para diminuir as desigualdades e atuar como um agente transformador em prol da inclusão e diversidade. Essa atuação se dá através de uma consultoria profissional e gratuita para profissionais transgêneros, travestis, intersexo e não-bináries.
+
+Botão:
+[Veja como funciona]
+
+--- DEPOIMENTOS ---
+Título:
+"Vozes que inspiram"
+
+Frase apoio:
+"Histórias reais de quem passou pelo projeto e seguiu com mais força."
+
+--- CONTATO (home) ---
+Título:
+"Fale com a gente"
+
+Descrição:
+"Dúvidas, sugestões ou apoio? Estamos por aqui."
+
+Botão (email ou formulário):
+[Entrar em contato]
+
+--- APOIO/DOAÇÃO ---
+Título:
+"Apoie esta causa"
+
+Descrição:
+"Ajude a manter o projeto vivo e alcançar mais pessoas."
+
+Botão:
+[Quero contribuir]
+
+--- PÁGINA “CONSULTORIA PROFISSIONAL” ---
+Título:
+"Consultoria Profissional Transpor"
+
+Intro:
+"Etapas práticas, acolhedoras e transformadoras para quem busca seu espaço no mercado."
+
+Botão para formulário:
+[Me inscrever no ciclo]
+
+--- PÁGINA “SEJA VOLUNTÁRIE” ---
+Título:
+"Seja parte da transformação"
+
+Intro:
+"Aliades e pessoas trans unides por um futuro mais justo."
+
+Botão:
+[Quero ser voluntárie]
+
+--- FORMULÁRIOS (geral) ---
+Botão de envio:
+[Enviar]
+
+Botão de reset (se usar):
+[Limpar campos]
+
+Mensagem de sucesso:
+"Obrigado! Entraremos em contato o mais breve possível. 💛"
+
+Mensagem de erro:
+"Opa, algo deu errado. Tente novamente ou fale com a gente por e-mail."
+
+--- FOOTER (rodapé) ---
+Frase:
+"Projeto Transpor – Por um futuro onde todes tenham oportunidade."
+
+Links úteis:
+[Sobre] [Consultoria] [Voluntáries] [Contato]
+
+========================================
+TOM DE VOZ:
+Inclusivo, acolhedor, direto e empático.
+Evitar termos técnicos e linguagem fria.
+Uso intencional da linguagem neutra e acessível.
+========================================

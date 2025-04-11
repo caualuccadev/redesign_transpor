@@ -1,0 +1,66 @@
+========================================
+USER FLOW – LUANA (Pessoa trans em busca de recolocação)
+----------------------------------------
+1. Acessa o site via celular
+2. Vê mensagem de acolhimento logo na home
+3. Clica em “Quero participar”
+4. Lê sobre o ciclo de consultoria
+5. Preenche formulário de interesse
+6. Recebe e-mail com os próximos passos
+7. Começa acompanhamento com mentoria
+========================================
+
+USER FLOW – ALEX (Pessoa não binárie estudante)
+----------------------------------------
+1. Acessa o site por indicação de rede social
+2. Vai direto na seção “Como funciona?”
+3. Entende as etapas do ciclo de consultoria
+4. Clica em “Participar”
+5. Escolhe áreas de interesse profissional
+6. Preenche dados e envia formulário
+7. Recebe retorno com sugestão de mentor
+========================================
+
+USER FLOW – JOÃO (Aliado voluntário da área de RH)
+----------------------------------------
+1. Acessa o site após ouvir falar no LinkedIn
+2. Vai até a seção “Seja voluntário”
+3. Lê as áreas de atuação possíveis
+4. Escolhe “Mentor de RH”
+5. Preenche o formulário com experiência e disponibilidade
+6. Recebe contato com orientações e boas práticas
+7. Passa a integrar a equipe de apoio
+========================================
+
+USER FLOW – SANDRA (Psicóloga aliada)
+----------------------------------------
+1. Acessa o site após ver a campanha no Instagram
+2. Vai até “Como posso ajudar?”
+3. Encontra a seção sobre suporte emocional
+4. Clica em “Quero ser voluntária”
+5. Preenche formulário com informações profissionais
+6. Recebe materiais de orientação para aliados
+7. Passa por onboarding e começa a atuar
+========================================
+
+USER FLOW – MARCOS (Doador em potencial)
+----------------------------------------
+1. Entra no site ao buscar projetos sociais LGBTQIA+ no Google
+2. A home apresenta a missão do projeto com clareza
+3. Vê a seção “Impacto Social”
+4. Lê relatos e números de beneficiades
+5. Clica em “Apoie o projeto”
+6. Escolhe valor e método de doação
+7. Finaliza a doação com recibo por e-mail
+========================================
+
+USER FLOW – ANA PAULA (Persona negativa – Influencer conservadora)
+----------------------------------------
+1. Entra no site após ver publicação viral ou crítica nas redes
+2. Acessa seções como “Quem somos” e “Doações” em tom de julgamento
+3. Tira prints e copia trechos do site fora de contexto
+4. Compartilha conteúdo nas redes com comentários negativos
+5. Possivelmente entra em contato por e-mail ou formulário com críticas
+6. Pode gerar ruído em redes sociais ou ataques à página
+========================================
+

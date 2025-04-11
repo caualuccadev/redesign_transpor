@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+/* color design */
+    --blue200: #a9d2ea;
+    --blue300: #82bde0;
+    --blue400: #69b1da;
+    --blue500: #449dd1;
+    --blue600: #3e8fbe;
+    --blue700: #306f94;
+
+    --pink200: #fbb6c4;
+    --pink300: #fa94a9;
+    --pink400: #f98098;
+    --pink500: #f7607e;
+    --pink600: #e15773;
+    --pink700: #af446d;
+
+    --gren200: #99e4b5;
+    --green500: #22c55e;
+    --green700: #188c43;
+
+    --red200: #ef9b9b;
+    --red500: #dc2626;
+    --red700: #9c1b1b;
+
+    --black800: #282a2b;
+
+    --gray100: #fafbfb;
+    --gray150: #dcd9d9;
+    --gray200: #ededed;
+    --gray500: #9c9b9b;
+    --gray_blur: #dee4e476;
+
+/* defaults paddings and margins */
+    --padding_laterals: 2rem;
+
+/* fonts tokens */
+    --font_menu: 'Nunito Sans';
+    --font_title: 'Nunito Sans';
+    --font_texts: 'Roboto', Arial;
+}
+
+
+
+/* reseting the defaults */
+ul { list-style-type: none;}
+
+a { text-decoration: none;}
+
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* setting the global components */
+
+body{
+    background-color: var(--gray100); color: var(--black800);
+    overflow-x: hidden;
+    scroll-behavior: smooth; scroll-snap-type: proximity;
+    display: flex; flex-direction: column;
+    align-items: start; justify-content: space-between;
+    width: 100%; height: 100%;
+}
+
+.button_primary, .button_secondary{
+    display: flex;
+    align-items: center; justify-content: center;
+    padding: .5rem 1rem; gap: .5rem;
+    border-radius: 2rem;
+    outline: none;
+    cursor: pointer;
+    font-family: var(--font_menu); font-weight: 700;
+    position: relative;
+    overflow: hidden;
+    transition: all ease-in-out .3s;
+}
+
+.button_primary{
+    background-color: var(--pink500); border: 2px solid var(--pink500);
+    color: var(--gray100);
+    
+}
+
+.button_primary::after, .button_secondary::after{
+    position: absolute; left: 0;
+    content: '';
+    width: 0%; height: 100%;
+    background-color: var(--blue500);
+    border-radius: 2rem;
+    transition: all ease-in-out .3s;
+}
+
+.button_secondary{
+    color: var(--pink600);
+    border: 2px solid var(--pink600);
+}
+
+
+.button_icon{ display: flex; align-items: center; justify-content: center; }
+.button_primary p, .button_secondary p, .button_icon{ z-index: 1}
+
+/* header -- mobile first */
+.header_section{
+    display: flex;
+    align-items: center; justify-content: space-between;
+    padding: 1rem var(--padding_laterals);
+    width: 100%; height: fit-content;
+    background-color: var(--gray200);
+    position: relative;
+}
+
+.logo_container{
+    max-width: 12rem; min-width: 10rem;
+    display: flex;
+    align-items: center; justify-content: center;
+    overflow: hidden;
+}
+
+.logo_image{ width: 100%; display: flex;}
+
+.navigation_container{
+    display: flex; align-items: center; justify-content: center;
+}
+
+.mobile_navigation{
+    flex-direction: column;
+    align-items: start;
+    position: absolute; right: 0; top: 0;
+    width: 100vw; height: 100vh;
+    background-color: var(--gray_blur); backdrop-filter: blur(5px);
+    padding: 1rem;
+    z-index: 1;
+    visibility: hidden; opacity: 100;
+    transition: all ease-in-out .6s;
+}
+.mobile_menu{
+    align-items: center; justify-content: end;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: var(--black800);
+    transition: all ease-in-out .3s;
+}
+
+.close_menu{
+    width: 100%;
+    align-items: center; justify-content: end;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+.mobile_navigation .bi-x{
+    font-size: 2rem;
+    display: flex;
+    align-items: center; justify-content: center;
+    place-self: end;
+    border-radius: 50%;
+    width: fit-content; height: 100%; 
+    padding: .25rem;
+    position: relative;
+    overflow: hidden;
+    color: var(--pink600); border: 1px solid var(--pink600);
+}
+.mobile_navigation .bi-x::after{
+    position: absolute; top: 50%; bottom: 50%;
+    transform: translateY(-50%);
+    content: '';
+    display: flex;
+    width: 0; height: 0;
+    z-index: -1;
+    border-radius: 50%; border: 1px solid var(--pink600);
+    background-color: var(--pink200);
+}
+
+.mobile_item_navigation{
+    display: flex;
+    width: 100%; position: relative;
+    font-size: clamp(1.2rem, 1.3rem, 1.4rem);
+    padding: .5rem;
+    border-bottom: 1.5px solid var(--gray200);
+    cursor: pointer;
+    overflow: hidden;
+    margin-bottom: 1rem;
+    font-family: var(--font_menu);
+}
+    .mobile_item_navigation::after{
+        position: absolute; left: 0; top: 0;
+        content: '';
+        width: 0; height: 100%;
+        border: 1px solid var(--pink400);
+        background-color: var(--pink200);
+        z-index: -1;
+        transition: all ease-in-out .5s;
+    }
+
+.mobile_item_link{
+    display: flex;
+    width: 100%; height: 100%;
+    color: var(--black800);
+}
+
+.mobile_item_icons{
+    display: flex;
+    align-items: center; justify-content: start;
+    gap: 1rem;
+    margin-top: .7rem; padding: .5rem;
+    font-size: 1.7rem;
+}
+.mobile_item_icons .bi{
+    display: flex;
+    align-items: center; justify-content: center;
+    padding: .8rem;
+    border-radius: 50%;
+    color: var(--black800);
+    position: relative;
+    width: fit-content; height: fit-content;
+    overflow: hidden;
+    transition: all ease-in-out .3s;
+}
+
+
+.desktop_navigation{
+    display: flex;
+    align-items: center; justify-content: space-between;
+    width: 100%; height: 100%;
+}
+
+.desktop_item_navigation{
+    display: flex;
+    align-items: center; justify-content: center;
+    height: 100%;
+    padding: 0 .8rem;
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+}
+
+.desktop_item_navigation::after{
+    position: absolute; bottom: 0; left: 0;
+    height: 2px; width: 100%;
+    content: '';
+    border-radius: 2px;
+    background: linear-gradient(to right, var(--gray200), var(--gray150), var(--gray200));
+    transition: all ease-in-out 1s;
+}
+
+.desktop_item_link{
+    color: var(--black800);
+    font-family: var(--font_menu); font-weight: 700;
+    transition: all ease-in-out .3s;}
+
+.desktop_buttons{
+    display: flex;
+    align-items: center; justify-content: space-between;
+    gap: 1rem;
+}
+
+
+
+
+

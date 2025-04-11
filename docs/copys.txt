@@ -1,0 +1,204 @@
+========================================
+ESTRUTURA DE NAVEGAÇÃO – SITE PROJETO TRANSPOR
+========================================
+
+1. PÁGINA INICIAL
+------------------------
+- Hero com mensagem de acolhimento
+- Seção "Sobre o Projeto" (resumida, para gerar empatia)
+- Dados e estatísticas sobre educação da população trans (para gerar consciência)
+- Serviços oferecidos (resumo do ciclo de consultoria)
+- Depoimentos reais de participantes
+- Contato direto por e-mail
+- Seção "Apoie o Projeto" (com informações para doações)
+
+2. SOBRE O PROJETO
+------------------------
+- História completa da ONG
+- Missão
+- Visão
+- Valores
+- Equipe (opcional)
+
+3. CONSULTORIA PROFISSIONAL (antigo "Ciclo")
+------------------------
+- Descrição completa do ciclo de consultoria profissional
+- Pilares de atuação do ciclo (ex: acolhimento, capacitação, direcionamento)
+- Formulário de inscrição para participantes
+
+4. SEJA VOLUNTÁRIE (antigo "Inscrições")
+------------------------
+- Áreas de atuação disponíveis para voluntariado
+- Perfil de voluntáries (público-alvo + pessoas aliadas)
+- Formulário de inscrição para voluntariado
+
+5. CONTATO
+------------------------
+- E-mail direto para dúvidas
+- (opcional) Formulário simples de contato
+
+========================================
+OBSERVAÇÕES:
+- Navegação com linguagem clara, acolhedora e inclusiva
+- Destaque para CTAs de inscrição e apoio ao projeto
+- Página inicial leve e emocionalmente envolvente
+- Separação clara entre público participante e voluntárie
+========================================
+
+
+
+========================================
+VERSÃO REVISADA – ABOUT (PROJETO TRANSPOR)
+========================================
+
+TRANSPOR, v.t.d  
+Ir além; seguir adiante; ultrapassar.  
+Transpor montanhas, dificuldades, estruturas.  
+
+O Projeto Transpor nasceu em 20 de julho de 2020, da união entre uma competência técnica e um propósito de vida.  
+Diante da desigualdade, exclusão e marginalização que atravessam a vida de pessoas trans, travestis e não bináries, silenciar seria negar a própria luta.
+
+Surgimos sonhando com o dia em que não sejamos mais necessáries.  
+Mas enquanto ainda formos, seguimos firmes: oferecendo uma **consultoria profissional gratuita e exclusiva** para pessoas trans, travestis, intersexo e não bináries que desejam acessar o mercado formal de trabalho.
+
+Nosso ciclo de consultoria inclui:
+- Orientação para criação de um currículo assertivo e atrativo;
+- Apoio na criação e uso estratégico do LinkedIn;
+- Simulações de entrevistas individuais;
+- Dinâmicas de grupo com resolução de cases, comuns em seleções de estágio e trainee;
+- E uma consultoria de carreira pensada com respeito, escuta e direcionamento profissional.
+
+---
+
+✨ **Missão**  
+Viabilizar o acesso às oportunidades profissionais para pessoas trans em todo o Brasil, promovendo diversidade e inclusão no mercado de trabalho.
+
+🌈 **Visão**  
+Ser ponte entre empresas e pessoas trans, contribuindo para a superação de estruturas que excluem, limitam e silenciam.
+
+💛 **Valores**  
+Respeito  
+Diversidade  
+Empatia  
+Equidade social  
+Acolhimento  
+Aprendizado  
+Lugar de fala  
+Tratamento e olhar humanizado
+
+========================================
+OBSERVAÇÕES DE AJUSTE:
+- Uso consistente de linguagem neutra ("ê", "es", "pessoas")
+- Organização por blocos e uso de bullet points para melhor leitura em tela
+- Reforço emocional nos trechos estratégicos, sem pesar na formalidade
+- Clareza na explicação do ciclo de consultoria
+========================================
+
+
+========================================
+PILARES DE ATUAÇÃO – CONSULTORIA PROFISSIONAL
+========================================
+
+💼 ORIENTAÇÃO E CONSTRUÇÃO DE CURRÍCULO
+Ajudamos cada pessoa atendida a construir um currículo atrativo e assertivo, chamando a atenção de recrutadoræs desde o primeiro olhar.  
+Organizamos as informações de forma estratégica, dando destaque às experiências mais relevantes e às soft skills – aquelas habilidades comportamentais que mostram o diferencial de cada profissional.
+
+🌐 ORIENTAÇÃO PARA USO DO LINKEDIN
+O LinkedIn é uma das principais portas de entrada para o mercado de trabalho.  
+Neste pilar, damos suporte completo para a criação de um perfil forte e bem estruturado, além de orientar sobre como se comunicar, interagir e se portar dentro da rede.  
+Com isso, ê profissional passa a ter um perfil melhor ranqueado, visível aos algoritmos — e aos olhos dæs recrutadoræs.
+
+🎯 ORIENTAÇÃO VOCACIONAL E DE ENTREVISTAS
+A entrevista é um dos momentos mais decisivos de um processo seletivo — e também um dos mais desafiadores.  
+Aqui, oferecemos uma simulação individual com um profissional experiente na área, que realiza a entrevista como acontece no "mundo real".  
+Depois, a pessoa atendida recebe orientações e feedbacks personalizados para se sentir mais segura, preparada e confiante.
+
+🧠 DINÂMICAS DE GRUPO E CASES
+Muito comuns em processos seletivos para estágio e trainee, as dinâmicas em grupo com resolução de cases também fazem parte da nossa preparação.  
+Nesta etapa, criamos simulações com situações reais de mercado, promovendo interação, reflexão e desenvolvimento de habilidades como liderança, comunicação e criatividade.  
+Além disso, ê profissional tem a oportunidade de apresentar um pitch pessoal, ganhando mais segurança ao se expor em grupo.
+
+========================================
+TOM DE VOZ:
+Inclusivo, direto, acolhedor e motivador.  
+Foco em empoderar, orientar e valorizar o protagonismo de cada pessoa.
+Uso de linguagem neutra fluida e acessível.
+========================================
+
+
+========================================
+DADOS SOBRE A REALIDADE DA POPULAÇÃO TRANS NO BRASIL
+========================================
+
+📉 APENAS 4% DAS PESSOAS TRANS E TRAVESTIS POSSUEM EMPREGO FORMAL  
+Fonte: Associação Nacional de Travestis e Transexuais (ANTRA)
+
+🎓 MENOS DE 0,3% DA POPULAÇÃO TRANS CONSEGUE ACESSAR O ENSINO SUPERIOR  
+Fonte: ANTRA / CNN Brasil
+
+💔 CERCA DE 90% DAS PESSOAS TRANS RECORREM À PROSTITUIÇÃO COMO FONTE DE RENDA  
+Fonte: ANTRA / Folha de S. Paulo
+
+Esses dados reforçam a urgência de iniciativas como o Projeto Transpor, que busca ampliar o acesso a oportunidades justas, dignas e seguras para pessoas trans, travestis e não bináries em todo o Brasil.
+
+========================================
+OBSERVAÇÃO:
+Dados públicos e amplamente divulgados por veículos confiáveis.
+Recomendado manter referência à ANTRA como principal fonte.
+========================================
+
+========================================
+SEJA VOLUNTÁRIE – FAÇA PARTE DA NOSSA TRANSFORMAÇÃO
+========================================
+
+O Projeto Transpor não é feito por apenas uma, duas ou três pessoas.  
+Esse sonho coletivo só se tornou realidade graças à dedicação e ao compromisso de profissionais incríveis que compartilham dos nossos valores e acreditam em um futuro mais justo, diverso e inclusivo.
+
+Se você também acredita nessa transformação e quer fazer parte dela, venha somar com a gente!
+
+💬 ÁREAS DE ATUAÇÃO PARA VOLUNTÁRIES:
+- Psicologia (acolhimento, orientação vocacional, suporte emocional)
+- Recursos Humanos (dinâmicas, entrevistas simuladas, feedbacks)
+- Comunicação e Design (criação de conteúdo, redes sociais, identidade visual)
+- Marketing Digital (divulgação, campanhas, gestão de tráfego)
+- Jurídico (orientação básica sobre direitos trabalhistas e nome social)
+- Pedagogia ou Educação (mediação didática dos conteúdos do ciclo)
+- Tecnologia (suporte ao site, formulários, plataforma de atendimento)
+- Administrativo/Financeiro (gestão de recursos, organização de processos)
+- Apoio Geral (organização, contato com participantes, suporte logístico)
+
+🤝 Aqui, cada pessoa faz a diferença — seja você parte da comunidade ou aliade à causa.
+
+💛 Preencha o formulário abaixo e venha com a gente construir um novo futuro!
+
+Vamos juntes mudar realidades e construir um mundo cada vez mais inclusivo?
+
+========================================
+TOM DE VOZ:
+Motivador, empático e inclusivo.  
+Foco na força do coletivo e no acolhimento de quem deseja colaborar.
+========================================
+
+========================================
+ENTRE EM CONTATO
+========================================
+
+💌 QUER SOMAR COM A GENTE?
+
+O Projeto Transpor está sempre de portas abertas para sugestões, dúvidas, parcerias e novas conexões.  
+Nosso objetivo é crescer, melhorar e impactar cada vez mais vidas de forma positiva, inclusiva e transformadora.
+
+Se você quer colaborar, trocar ideias ou simplesmente conversar, é só chamar:
+
+📧 Email: transporprojeto@gmail.com  
+📱 Instagram: @transporprojeto  
+💼 LinkedIn: Projeto Transpor
+
+Estamos aqui para construir pontes — e toda ponte começa com um "olá".
+
+========================================
+TOM DE VOZ:
+Acolhedor, aberto ao diálogo e propositivo.  
+Encoraja o contato e reforça o senso de comunidade.
+========================================
+
