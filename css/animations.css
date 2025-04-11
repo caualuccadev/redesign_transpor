@@ -1,4 +1,16 @@
 /* key frames declarations */
+@keyframes welcome_animation_words {
+    0%, 33.33% {content: 'bem-vinda!'; color: var(--pink500);}
+     33.4%, 66.66%{ content: 'bem-vindo!'; color: var(--blue500);}
+    66.7%, 100% { content: 'bem-vinde!'; color: var(--purple);}
+}
+
+@keyframes welcome_animation_change{
+    0%{width: 100%;}
+    50%{width: 0%;}
+    100%{width: 100%;}
+
+}
 
 
 /* global components */
@@ -57,3 +69,9 @@
     color: var(--pink500);
     transition: all ease-in-out .3s;
 }
+
+
+
+/* home page animations */
+.animation_hero::after{ animation: welcome_animation_words  12s linear infinite;}
+.animation_hero::before {animation: welcome_animation_change 4s steps(10) infinite;}

@@ -28,9 +28,11 @@
 
     --gray100: #fafbfb;
     --gray150: #dcd9d9;
-    --gray200: #ededed;
+    --gray200: #f1f1f1;
     --gray500: #9c9b9b;
     --gray_blur: #dee4e476;
+
+    --purple: #981c98;
 
 /* defaults paddings and margins */
     --padding_laterals: 2rem;
@@ -39,6 +41,7 @@
     --font_menu: 'Nunito Sans';
     --font_title: 'Nunito Sans';
     --font_texts: 'Roboto', Arial;
+    --font_h2_sizes: clamp(1.2rem, 1.5rem, 1.7rem);
 }
 
 
@@ -47,6 +50,8 @@
 ul { list-style-type: none;}
 
 a { text-decoration: none;}
+
+strong { color: var(--pink500);}
 
 *{
     margin: 0; padding: 0;
@@ -57,13 +62,17 @@ a { text-decoration: none;}
 /* setting the global components */
 
 body{
-    background-color: var(--gray100); color: var(--black800);
+    background-color: var(--gray200); color: var(--black800);
     overflow-x: hidden;
     scroll-behavior: smooth; scroll-snap-type: proximity;
     display: flex; flex-direction: column;
     align-items: start; justify-content: space-between;
     width: 100%; height: 100%;
+    overflow-x: hidden;
 }
+
+h1, h2, h3{ font-family: var(--font_title);}
+
 
 .button_primary, .button_secondary{
     display: flex;
@@ -98,9 +107,11 @@ body{
     border: 2px solid var(--pink600);
 }
 
-
 .button_icon{ display: flex; align-items: center; justify-content: center; }
 .button_primary p, .button_secondary p, .button_icon{ z-index: 1}
+
+
+
 
 /* header -- mobile first */
 .header_section{

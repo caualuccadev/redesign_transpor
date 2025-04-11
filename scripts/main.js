@@ -75,6 +75,21 @@ function clickers_navigation(){
     let mobile_itemns = document.querySelectorAll('.')
 }
 
+// animators: funções animators vão criar animações personalizadas
+function animator_welcome(){
+// vai criar variações de bem vindo para todos os gêneros
+    const welcome_words = ['bem-vinda', 'bem-vindo', 'bem-vinde'];
+    let welcome_container = document.querySelector('.animation_hero');
+
+    // criar uma var com o lenght das palavras para criar a animação
+    const words_lenght = 9;
+
+    
+
+
+
+}
+
 
 
 
@@ -83,10 +98,13 @@ function clickers_navigation(){
 
 window.addEventListener('load', ()=>{
     watcher_header_elements()
+
     interactor_menu_toggle()
+
 })
 
 window.addEventListener('resize', ()=>{
     watcher_header_elements()
+
     interactor_menu_toggle()
 })

@@ -1,5 +1,115 @@
 @import url(global.css);
 
 
-/*  hero styles */
+/* global components of the home page */
 
+.section_main{
+    display: flex; flex-direction: column;
+    align-items: start; justify-content: space-between;
+    overflow: hidden;
+    width: 100%; height: 100%;
+}
+
+.section_title{
+    font-family: var(--font_title);
+    font-size: var(--font_h2_sizes);
+}
+
+
+/*  hero styles */
+.section_hero{
+    display: flex; flex-wrap: wrap;
+    align-items: stretch; justify-content: space-between;
+    width: 100%;
+    margin-top: 2rem;
+    padding: var(--padding_laterals);
+    background-image: linear-gradient(to bottom, var(--gray200), transparent, var(--gray200)), url(../assets/icons/fundo_cinza.svg);
+    border: 1px solid red;
+}
+
+.content_hero{
+    display: flex; flex-direction: column;
+    align-items: start; justify-content: space-between;
+    width: 50%;
+    margin: 2rem 0;
+}
+
+.title_hero{
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 3.5rem;
+}
+
+.title_underline{
+    position: relative;
+}
+
+.title_underline::after{
+    position: absolute; left: 0; bottom: 20%;
+    content: '';
+    width: 102%; height: 40%;
+    background-color: var(--blue300);
+    z-index: -1;
+    border-radius: 1rem;
+    transform: rotateZ(-2deg);
+    opacity: 80%;
+}
+
+.subtitle_hero{
+    font-size: 1.3rem; font-weight: normal;
+}
+
+.ainmation_hero_container{
+    width: 100%;
+    display: flex; flex-direction: row;
+    position: relative;
+}
+
+.animation_hero{
+    position: relative;
+    width: 7rem;
+    height: 100%;
+    perspective: 6.5rem;
+}
+
+.animation_hero::after{
+    position: absolute; bottom: 0; left: .35rem;
+    content: '';
+    width: 100%;
+    height: 100%;
+
+}
+
+.animation_hero::before{
+    position: absolute; bottom: 0px; right: 0;
+    content: '';
+    width: 100%; height: 90%;
+    background-color: var(--gray200);
+    border-left: 1.5px solid var(--black800);
+    z-index: 1;
+}
+
+.actions_hero{
+    display: flex;
+    align-items: center; justify-content: center;
+    gap:1rem;
+}
+
+.image_hero{
+ height: 30%; 
+    background-color: none;
+}
+
+.image{
+    border-radius: 5rem;
+    position: relative;
+    display: flex;
+    width: 100%; height: 100%;
+}
+
+.image::after{
+    content: ' ';
+    position: absolute; right: -20%; top: -20%;
+    width: 100%; height: 100%;
+    background-color: var(--pink500);
+}
