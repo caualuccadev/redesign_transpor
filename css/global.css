@@ -25,6 +25,7 @@
     --red700: #9c1b1b;
 
     --black800: #282a2b;
+    --shadow: #282a2b34;
 
     --gray100: #fafbfb;
     --gray150: #dcd9d9;
@@ -41,7 +42,7 @@
     --font_menu: 'Nunito Sans';
     --font_title: 'Nunito Sans';
     --font_texts: 'Roboto', Arial;
-    --font_h2_sizes: clamp(1.2rem, 1.5rem, 1.7rem);
+    --font_h2_sizes: clamp(1.5rem, 1.7rem, 1.9rem);
 }
 
 
@@ -72,6 +73,11 @@ body{
 }
 
 h1, h2, h3{ font-family: var(--font_title);}
+
+p{font-family: var(--font_texts);}
+
+mark{ background-color: var(--pink200); padding: 0 .25rem;}
+.upper_case_text{text-transform: uppercase;}
 
 
 .button_primary, .button_secondary{
@@ -110,6 +116,15 @@ h1, h2, h3{ font-family: var(--font_title);}
 .button_icon{ display: flex; align-items: center; justify-content: center; }
 .button_primary p, .button_secondary p, .button_icon{ z-index: 1}
 
+
+.image{
+    border-radius: 2rem 6rem;
+    position: relative;
+    display: flex;
+    width: 35rem;
+    height: 30rem;
+ 
+}
 
 
 
